@@ -7,7 +7,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">My name is Roman. I'm 19 years old. I study at KPI on the 2nd year at FIСT.</p>
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichking)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DmytrenkoRoman&show_icons=true&locale=en&hide_border=true" alt="DmytrenkoRoman" /></p>
 
 <!--
 **Dmytrenko-Roman/Dmytrenko-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
