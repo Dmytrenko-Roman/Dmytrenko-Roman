@@ -3,6 +3,8 @@
 <p align="center"><img src="./assets/runes.png" /></p>
 <h1 align="center">For the glory of the whip!</h1>
 
+<h1 align="center">About me</h1>
+
 <!--
 **Dmytrenko-Roman/Dmytrenko-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
