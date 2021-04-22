@@ -4,7 +4,8 @@
 <h1 align="center">For the glory of the whip!</h1>
 
 <h2 align="center">About me</h2>
-<p style="text-align: center;">My name is Roman. I'm 19 years old. I study at KPI on the 2nd year at FIСT.</p>
+<p align="center" style="color:#4169e1; font-size:30px">
+My name is Roman. I'm 19 years old. I study at KPI on the 2nd year at FIСT.</p>
 
 <!--
 **Dmytrenko-Roman/Dmytrenko-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
