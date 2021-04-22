@@ -7,7 +7,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">My name is Roman. I'm 19 years old. I study at KPI on the 2nd year at FIСT.</p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DmytrenkoRoman&show_icons=true&locale=en&hide_border=true" alt="DmytrenkoRoman" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dmytrenko-Roman&show_icons=true&locale=en&hide_border=true" alt="DmytrenkoRoman" /></p>
 
 <!-- LANGUAGES AND TOOLS -->
 
