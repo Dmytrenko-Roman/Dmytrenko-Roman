@@ -4,7 +4,7 @@
 <h1 align="center">For the glory of the whip!</h1>
 
 <h2 align="center">About me</h2>
-<p align="center" style="color:#002137; font-size:50px">
+<p align="center">
 My name is Roman. I'm 19 years old. I study at KPI on the 2nd year at FIСT.</p>
 
 <!--
