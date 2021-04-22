@@ -1,4 +1,4 @@
-<img style="float: right;" src="./assets/runes.png">
+<p align="center"><img src="./assets/runes.png" /></p>
 
 <!--
 **Dmytrenko-Roman/Dmytrenko-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
