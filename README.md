@@ -1,4 +1,4 @@
-[![Header](https://github.com/Dmytrenko-Roman/Dmytrenko-Roman/blob/main/assets/runes.png)]
+<img style="float: right;" src="./assets/runes.jpg">
 
 <!--
 **Dmytrenko-Roman/Dmytrenko-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
