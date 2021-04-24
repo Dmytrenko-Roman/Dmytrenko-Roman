@@ -34,3 +34,4 @@
 <p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://www.djangoproject.com/">Django<a> 💻</p>
 <p align="center">📫 How to reach me: <strong>gitlichking@gmail.com</strong> 📫</p>
 
+<p align="center"><img src="./assets/4EE7CA68-03FD-4FBC-81E6-41CEF8F78DB3.gif" /></p>
