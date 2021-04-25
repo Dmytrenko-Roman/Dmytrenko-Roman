@@ -33,5 +33,20 @@
 <p align="center">🔨 I’m currently working on <a href="https://github.com/DmytrenkoRoman/car-sales-website">Car Sales Website<a> 🔨</p>
 <p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://www.djangoproject.com/">Django<a> 💻</p>
 <p align="center">📫 How to reach me: <strong>gitlichking@gmail.com</strong> 📫</p>
+  
+<!-- CONTACTS -->
+ 
+<h2 align="center">Contacts</h2>
+<p align="center">
+<a href="https://mobile.twitter.com/antimagnet1c" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+<a href="https://www.linkedin.com/in/roman-dmytrenko-a80901210/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+<a href="mailto:gitlichking@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center"><img src="./assets/4EE7CA68-03FD-4FBC-81E6-41CEF8F78DB3.gif" /></p>
