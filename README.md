@@ -1,6 +1,6 @@
 <!-- PROFILE LOGO -->
 
-<p align="center"><img src="./assets/runes.png" /></p>
+<p align="center"><img src="https://github.com/Dmytrenko-Roman/pictures-gifs/blob/main/pictures/2398BDBD-4200-4DF6-B798-B38FC99B9567.png" /></p>
 <h1 align="center">For the glory of the whip!</h1>
 
 <!-- ABOUT ME -->
@@ -49,4 +49,4 @@
   </a>
 </p>
 
-<p align="center"><img src="./assets/4EE7CA68-03FD-4FBC-81E6-41CEF8F78DB3.gif" /></p>
+<p align="center"><img src="https://github.com/Dmytrenko-Roman/pictures-gifs/blob/main/gifs/7406B34E-0434-4896-A991-13D3B8EE98C4.gif" /></p>
