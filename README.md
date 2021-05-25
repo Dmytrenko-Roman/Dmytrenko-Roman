@@ -25,6 +25,9 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Django-inactive?style=for-the-badge&logo=django&logoColor=green"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Docker-inactive?style=for-the-badge&logo=docker&logoColor=green"/>
+  </a>
  </p>
  
  <!-- SOMETHING INTERESTING -->
