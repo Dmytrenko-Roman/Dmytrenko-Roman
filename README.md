@@ -17,16 +17,16 @@
     <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=47C5FB"/>
   </a>
   <a href="https://developer.mozilla.org/ru/docs/Learn/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JS-inactive?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/-JS-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   </a>
   <a href="https://uk.wikipedia.org/wiki/.NET_Framework" target="_blank">
     <img src="https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=.net&logoColor=black"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Django-inactive?style=for-the-badge&logo=django&logoColor=green"/>
+    <img src="https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django&logoColor=green"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Docker-inactive?style=for-the-badge&logo=docker&logoColor=green"/>
+    <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
  </p>
  
