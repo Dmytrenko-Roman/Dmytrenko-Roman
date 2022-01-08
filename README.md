@@ -33,8 +33,8 @@
  <!-- SOMETHING INTERESTING -->
  
 <h2 align="center">Something interesting</h2>
-<p align="center">🔨 I’m currently working on <a href="https://github.com/DmytrenkoRoman/car-sales-website">Car Sales Website<a>  🔨</p>
-<p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://www.djangoproject.com/">Django<a> 💻</p>
+<p align="center">🔨 I’m currently working on <a href="https://github.com/DmytrenkoRoman/wry-hots-api">Wry Hots API<a>  🔨</p>
+<p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://fastapi.tiangolo.com/">FastAPI<a> 💻</p>
 <p align="center">📫 How to reach me: <strong>gitlichking@gmail.com</strong> 📫</p>
   
 <!-- CONTACTS -->
