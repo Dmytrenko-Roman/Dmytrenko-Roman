@@ -33,8 +33,8 @@
  <!-- SOMETHING INTERESTING -->
  
 <h2 align="center">Something interesting</h2>
-<p align="center">🔨 I’m currently working on <a href="https://flask.palletsprojects.com/en/2.0.x/">Flask Learning Website<a>  🔨</p>
-<p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://flask.palletsprojects.com/en/2.0.x/">Flask<a> 💻</p>
+<p align="center">🔨 I’m currently working on <a href="https://github.com/mezidia/mezidia_tracker">mezidia-tracker<a>  🔨</p>
+<p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://ru.reactjs.org/">React<a> 💻</p>
 <p align="center">💻 My <a href="https://exercism.org/profiles/Dmytrenko-Roman">Exercism<a> 💻</p>
 <p align="center">📫 How to reach me: <strong>gitlichking@gmail.com</strong> 📫</p>
   
