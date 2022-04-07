@@ -33,9 +33,8 @@
  <!-- SOMETHING INTERESTING -->
  
 <h2 align="center">Something interesting</h2>
-<p align="center">🔨 I’m currently working on <a href="https://github.com/mezidia/mezidia_tracker">mezidia-tracker<a>  🔨</p>
-<p align="center">💻 I’m currently learning <a href="https://www.python.org/">Python<a> and <a href="https://ru.reactjs.org/">React<a> 💻</p>
-<p align="center">💻 My <a href="https://exercism.org/profiles/Dmytrenko-Roman">Exercism<a> 💻</p>
+<p align="center">🔨 I’m currently working on <a href="https://github.com/Dmytrenko-Roman/instraper">instraper<a>  🔨</p>
+<p align="center">💻 I’m currently learning <a href="https://selenium-python.readthedocs.io">Selenium<a>, <a href="https://scrapy.org">Scrapy<a> and <a href="https://www.django-rest-framework.org">DRF<a> 💻</p>
 <p align="center">📫 How to reach me: <strong>gitlichking@gmail.com</strong> 📫</p>
   
 <!-- CONTACTS -->
