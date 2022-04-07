@@ -19,14 +19,14 @@
   <a href="https://developer.mozilla.org/ru/docs/Learn/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/-JS-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   </a>
-  <a href="https://uk.wikipedia.org/wiki/.NET_Framework" target="_blank">
-    <img src="https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=.net&logoColor=black"/>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Fastapi-blue?style=for-the-badge&logo=fastapi&logoColor=black"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django&logoColor=green"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Selenium-blue?style=for-the-badge&logo=selenium&logoColor=white"/>
   </a>
  </p>
  
