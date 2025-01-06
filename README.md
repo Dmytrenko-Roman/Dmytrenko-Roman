@@ -2,9 +2,6 @@
 <h1 align="center">Let them come. Frostmourne hungers.</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roman-dmytrenko-a80901210/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:gitlichking@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
